@@ -1,0 +1,56 @@
+nav {
+	background-color: red;
+
+	text-align: center;
+	margin: 4px;
+	padding: 5px;
+
+
+	}
+
+	ul {
+	list-style: none;
+	}
+
+	li {
+		margin: 10px;
+		padding: 20px;
+		display: inline-block;
+		background-color: white;
+		transition: all 0.5s ease;	
+
+	}
+
+
+	a {
+	display: inline-block;
+	color: blue;
+
+}
+ a:hover {
+ 	color: blue;
+ 	border: yellow;
+ 	font-size: 30px;
+ }
+
+section {
+	margin-top: 50px;
+	text-align: center;
+    
+
+}
+
+button {
+	margin:5px;
+	padding: 10px;
+	background-color: green;
+	border-radius: 3px;
+	transition: all 1s ease;
+}
+
+
+button:hover { 
+    color: white;
+ 	border: yellow;
+ 	font-size: 30px;
+}
